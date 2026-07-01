@@ -1,16 +1,13 @@
-## Hi there 👋
+# Z117x
 
-<!--
-**Z117x/Z117x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring ideas, technology and open source.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in technology and innovation
+- Learning and building new things
+- Exploring open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- GitHub
+- Open Source
+- Software & Technology
